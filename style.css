@@ -47,3 +47,8 @@ p{
     background-color: red;
     
 }
+.two-section{
+    background-image: url(img/dream-bg.png); 
+    background-repeat: no-repeat;
+    background-position: right;
+}
