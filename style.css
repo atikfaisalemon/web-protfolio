@@ -4,6 +4,21 @@ body{
 h1{
     font-size: 50px;
 }
+#font-weight{
+    font-weight: 1200;
+}
 .name-highlight{
     color: orange;
+}
+p{
+    color: light gray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
 }
